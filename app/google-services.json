@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510232975143",
+    "project_id": "crown-infinity-b972c",
+    "storage_bucket": "crown-infinity-b972c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510232975143:android:0a8fff6a428c6bbd65fb02",
+        "android_client_info": {
+          "package_name": "com.shopify.arriv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510232975143-9qmtbvs2sfv6bi4oqfvn1q5kg3ljpqlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNvRhrCWjZtEdV8Bk4bqlaK5fFgFl4BkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510232975143-9qmtbvs2sfv6bi4oqfvn1q5kg3ljpqlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
